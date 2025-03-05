@@ -1,6 +1,12 @@
 Dataset/df_final_oficial_concatenado_com_referencias.csv
-<<<<<<< HEAD
 WOS nano/
 WOS download/
+<<<<<<< HEAD
+
 =======
 >>>>>>> ffc78dce0b4d5a58a622cb1175daf3539cc3a378
+WOS download/config.py
+WOS download/download.py
+WOS download/config.py
+WOS download/teste.ipynb
+WOS download/rename files.sh
