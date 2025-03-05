@@ -10,3 +10,14 @@ WOS download/download.py
 WOS download/config.py
 WOS download/teste.ipynb
 WOS download/rename files.sh
+Rede de Citações e Análises/Grupos e Grafos/Grupos_sem_artigos_desconhecidos.csv
+Rede de Citações e Análises/Grupos e Grafos/Dicionário_sem_artigos_desconhecidos.csv
+.gitignore
+Rede de Citações e Análises/Grupos e Grafos/Comunidade_sem_artigos_desconhecidos.csv
+Rede de Citações e Análises/Grupos e Grafos/Comunidade_com_artigos_desconhecidos.csv
+Rede de Citações e Análises/Análise grupos/Análise Grupos sem artigos desconhecidos.xlsx
+Rede de Citações e Análises/Análise grupos/Análise Grupos com artigos desconhecidos.xlsx
+Rede de Citações e Análises/Análise grupos/Análise Comunidades sem artigos desconhecidos.xlsx
+Rede de Citações e Análises/Análise grupos/Análise Comunidades com artigos desconhecidos.xlsx
+Rede de Citações e Análises/Grupos e Grafos/Dicionário_com_artigos_desconhecidos.csv
+Rede de Citações e Análises/Grupos e Grafos/Grupos_com_artigos_desconhecidos.csv
